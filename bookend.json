@@ -1,0 +1,22 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "email",
+    {
+      "provider": "twitter",
+      "text": "This is custom share text that I would like for the Twitter platform"
+    }
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "small",
+      "title": "The AMP Story section on ampbyexample.com",
+      "url": "https://ampbyexample.com/stories/introduction/amp_story_hello_world/",
+      "image": "https://ampbyexample.com/img/social.png"
+    }
+  ]
+}
